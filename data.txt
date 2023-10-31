@@ -1,0 +1,16 @@
+Patient's Medical Repord
+Patient's name:	John Jones
+Date of Birth:	20/11/1999
+contactInfo:	john.bones.1999@gmail.com
+Existing MedCondition:	is Ill
+
+History
+Diagnose:	hipertonia 2
+Threatment:	once a day
+Medication:	noliptren forte
+
+Your doctor
+Doctor's name:	Dr. Tonoyan
+Specialization:	Cardiologist
+ContactInfo:	Doctor.Dr.111@gmail.com
+Years Of Experience:	20
